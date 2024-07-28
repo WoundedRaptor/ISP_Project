@@ -10,10 +10,10 @@
 module load python/3.11.5
 
 # Activate virtual environment (if any)
-source ~/myenv/bin/activate
+# source ~/myenv/bin/activate (need to get access to Siku)
 
-# Navigate to the directory containing script
-cd /path/to/your/script
+# Navigate to the directory containing script - Add if required
+# cd /path/to/your/script (need to get access to Siku)
 
 # Run the Python script
 python ISP_Dask.py
